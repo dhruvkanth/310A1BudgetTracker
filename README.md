@@ -75,17 +75,4 @@ If you require additional assistance or have any questions, you can:
 ## Contributing Guidelines
 If you're interested in contributing to the project, please read our [Contributing Guidelines](CONTRIBUTING.md).
 
-# Where can I get more help, if I need it?
-Flick our friendly developers an email!
-
-| Name            | Email                     |
-|-----------------|---------------------------|
-| Dhruvkanth Puli | dpul133@aucklanduni.ac.nz |
-| Kevin Jin       | kjin505@aucklanduni.ac.nz |
-| Aditya Sohani   | asoh038@aucklanduni.ac.nz |
-| Adwait Mane     | jgai284@aucklanduni.ac.nz |
-| Young Min Kim   | ykim583@aucklanduni.ac.nz |
-| Eric Jiang      | ejia362@aucklanduni.ac.nz |
-
-
 
